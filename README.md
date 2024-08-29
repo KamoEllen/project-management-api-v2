@@ -4,8 +4,13 @@
 
 This is my third Python API project this week, and my choices were shaped by past experiences and project requirements.
 
-![img](https://github.com/KamoEllen/Final-API/blob/main/img.png?raw=true)
+# Check out this video:
 
+[![Watch the video](https://github.com/KamoEllen/project-management-api-v2/blob/main/Thumbnail.png?raw=true)](https://www.youtube.com/watch?v=Ha-FUmVgB5o)
+
+<!--
+![img](https://github.com/KamoEllen/Final-API/blob/main/img.png?raw=true)
+-->
 
 ### **Current Features Checklist**
 
@@ -95,10 +100,6 @@ The **Project Management API** is a FastAPI-based application designed to facili
 - **User Authentication**: Secure login and token-based authentication.
 - **Project Management**: Endpoints to manage projects, milestones, tasks, and track progress.
 - **CRUD Operations**: Full support for Create, Read, Update, and Delete operations.
-
-# Check out this video:
-
-[![Watch the video](https://github.com/KamoEllen/project-management-api-v2/blob/main/Thumbnail.png?raw=true)](https://www.youtube.com/watch?v=Ha-FUmVgB5o)
 
 ## Table of Contents
 
