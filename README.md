@@ -96,8 +96,9 @@ The **Project Management API** is a FastAPI-based application designed to facili
 - **Project Management**: Endpoints to manage projects, milestones, tasks, and track progress.
 - **CRUD Operations**: Full support for Create, Read, Update, and Delete operations.
 
-[![Watch the video](https://img.youtube.com/vi/Ha-FUmVgB5o/hqdefault.jpg)](https://www.youtube.com/watch?v=Ha-FUmVgB5o)
+# Check out this video:
 
+[![Watch the video](https://github.com/KamoEllen/project-management-api-v2/blob/main/Thumbnail.png?raw=true)](https://www.youtube.com/watch?v=Ha-FUmVgB5o)
 
 ## Table of Contents
 
